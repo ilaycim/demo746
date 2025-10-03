@@ -10,3 +10,5 @@ edit 2
 how to use this repo:
 
 clone it ia 'git clone blabla'
+
+This is the edittt
